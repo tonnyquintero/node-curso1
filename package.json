@@ -1,0 +1,19 @@
+{
+  "name": "curso1",
+  "version": "0.1.0",
+  "description": "primer cuurso de node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "telegram",
+    "server"
+  ],
+  "author": "tonny187",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
